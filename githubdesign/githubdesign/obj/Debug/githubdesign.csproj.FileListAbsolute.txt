@@ -1,0 +1,12 @@
+c:\users\i16881\documents\visual studio 2015\Projects\githubdesign\githubdesign\bin\Debug\githubdesign.exe.config
+c:\users\i16881\documents\visual studio 2015\Projects\githubdesign\githubdesign\bin\Debug\githubdesign.exe
+c:\users\i16881\documents\visual studio 2015\Projects\githubdesign\githubdesign\bin\Debug\githubdesign.pdb
+c:\users\i16881\documents\visual studio 2015\Projects\githubdesign\githubdesign\obj\Debug\githubdesign.csprojResolveAssemblyReference.cache
+c:\users\i16881\documents\visual studio 2015\Projects\githubdesign\githubdesign\obj\Debug\githubdesign.exe
+c:\users\i16881\documents\visual studio 2015\Projects\githubdesign\githubdesign\obj\Debug\githubdesign.pdb
+E:\gitProjects\AutomationGithubDesign\githubdesign\githubdesign\bin\Debug\githubdesign.exe.config
+E:\gitProjects\AutomationGithubDesign\githubdesign\githubdesign\obj\Debug\githubdesign.exe
+E:\gitProjects\AutomationGithubDesign\githubdesign\githubdesign\obj\Debug\githubdesign.pdb
+E:\gitProjects\AutomationGithubDesign\githubdesign\githubdesign\bin\Debug\githubdesign.exe
+E:\gitProjects\AutomationGithubDesign\githubdesign\githubdesign\bin\Debug\githubdesign.pdb
+E:\gitProjects\AutomationGithubDesign\githubdesign\githubdesign\obj\Debug\githubdesign.csprojResolveAssemblyReference.cache

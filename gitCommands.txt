@@ -1,0 +1,59 @@
+git --version
+git config --global user.name "srinidhi-shankar"
+git config --global user.email "manusrinidhi10@gmail.com"
+git config --list
+git help config
+git config --help
+
+//Initialize a repository from existing code from the project folder
+git init
+rm -rf .git
+
+//before first commit
+git status
+
+//Add gitignore file .gitignore
+.DS_Store
+*.pyc
+.project
+
+//Working directory, Staging area, Committed files (.git repository)
+
+//Add files to staging area
+git add -A //all files
+git add .gitignore //single file .gitignore
+
+to remove files from staging area
+git reset calc.pyc
+git reset // remove everything from staging area
+
+
+//commit
+git commit -m "first commit"
+
+//information about the commit
+git log
+
+//Track a remote project
+
+//Clone a repository from url to local
+git clone https://github.com/srinidhi-shankar/example /path/to/the/local/directory
+
+//viewing information about the remote repository
+git remote -v
+git branch -a
+
+//push changes to the remote repository
+git diff //see the diff
+git status
+git add -A
+git status
+git commit -m "message"
+git pull origin master
+git push origin master // master is the branch;origin is remote repository
+
+//Caching your GitHub password in Git
+git config --global credential.helper wincred
+
+//Important git links
+http://stackoverflow.com/questions/18137175/in-git-what-is-the-difference-between-origin-master-vs-origin-master
