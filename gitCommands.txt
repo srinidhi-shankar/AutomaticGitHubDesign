@@ -55,5 +55,8 @@ git push origin master // master is the branch;origin is remote repository
 //Caching your GitHub password in Git
 git config --global credential.helper wincred
 
+//git remote connection
+git remote add origin https://hostname/user/repo.git
+
 //Important git links
 http://stackoverflow.com/questions/18137175/in-git-what-is-the-difference-between-origin-master-vs-origin-master
